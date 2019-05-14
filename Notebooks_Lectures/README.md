@@ -28,3 +28,9 @@
 	* Pedro Castelucci (ICMC/USP and UFSCar)
 * Students:
 	* Igor Torati Ruy (UFLA)
+
+### Questions/Suggestions
+
+* mayron.moreira@ufla.br
+* http://professores.dcc.ufla.br/~mayron/
+* Follow me: twitter.com/MayronMoreira 
