@@ -33,4 +33,4 @@
 
 * mayron.moreira@ufla.br
 * http://professores.dcc.ufla.br/~mayron/
-* Follow me: twitter.com/MayronMoreira 
+* Follow me: [twitter.com/MayronMoreira](twitter.com/MayronMoreira)
