@@ -9,6 +9,8 @@
 *Università degli Studi di Modena e Reggio Emilia (UNIMORE)*  
 *Reggio Emilia, Italy*
 
+*Last updated*: May 15, 2019.
+
 ### Softwares and packages
 
 * Julia 1.1.0, and JuMP 0.19.0.  
