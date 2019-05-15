@@ -16,7 +16,9 @@
 * Julia 1.1.0, and JuMP 0.19.0.  
 * Download Anaconda at https://www.anaconda.com/. Choose the right version after double click on "download" at the top right part of the screen.
 * Download Julia at https://julialang.org/downloads/
-* Then, at Julia terminal: Pkg.add(["JuMP", "Cbc", "Clp", "IJulia", "LightGraphs", "ArgParse", "DelimitedFiles", "GraphPlot", "Plots", "Cairo", "Fontconfig", "Colors", "Compose", "DataStructures"])
+* Then, at Julia terminal: 
+	* julia> using Pkg  
+	* julia> Pkg.add(["JuMP", "Cbc", "Clp", "IJulia", "LightGraphs", "ArgParse", "DelimitedFiles", "GraphPlot", "Plots", "Cairo", "Fontconfig", "Colors", "Compose", "DataStructures"])
 
 ### Acknowledgements
 
