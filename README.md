@@ -24,15 +24,16 @@
 * Universidade Federal de Lavras (UFLA)
 * CNPq and FAPEMIG
 * Professors:
-	* Andreza C. Beezão (UFLA)
-	* Manuel Iori (UNIMORE)
-	* Marcus Ritt (UFRGS)
-	* Pedro Castelucci (ICMC/USP and UFSCar)
+	* Andreza C. Beezão (UFLA, Brazil)
+	* Alessandra Baschiera (Plano A Idiomas, Brazil)
+	* Manuel Iori (UNIMORE, Italy)
+	* Marcus Ritt (UFRGS, Brazil)
+	* Pedro Castelucci (ICMC/USP and UFSCar, Brazil)
 * Students:
-	* Igor Torati Ruy (UFLA)
+	* Igor Torati Ruy (UFLA, Brazil)
 
 ### Questions/Suggestions
 
 * mayron.moreira@ufla.br
 * http://professores.dcc.ufla.br/~mayron/
-* Follow me: http://twitter.com/MayronMoreira
+* Follow me at http://twitter.com/MayronMoreira
