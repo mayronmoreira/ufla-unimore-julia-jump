@@ -24,8 +24,8 @@
 * Universidade Federal de Lavras (UFLA)
 * CNPq and FAPEMIG
 * Professors:
-	* Andreza C. Beezão (UFLA, Brazil)
 	* Alessandra Baschiera (Plano A Idiomas, Brazil)
+	* Andreza C. Beezão (UFLA, Brazil)
 	* Manuel Iori (UNIMORE, Italy)
 	* Marcus Ritt (UFRGS, Brazil)
 	* Pedro Castelucci (ICMC/USP and UFSCar, Brazil)
